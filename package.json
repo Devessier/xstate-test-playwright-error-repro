@@ -1,0 +1,27 @@
+{
+  "name": "xstate-test-playwright-error-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devessier/xstate-test-playwright-error-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devessier/xstate-test-playwright-error-repro/issues"
+  },
+  "homepage": "https://github.com/Devessier/xstate-test-playwright-error-repro#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.0",
+    "@xstate/test": "^1.0.0-alpha.0"
+  },
+  "dependencies": {
+    "xstate": "^4.32.1"
+  }
+}
